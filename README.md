@@ -47,7 +47,7 @@ An end-to-end customer behavior analysis project focused on understanding custom
 
 **Power BI Dashboard:**
 
-![Customer Behavior Dashboard](01-Customer-Behavior-Analysis/dashboard.png)
+![Customer Behavior Dashboard](01-Customer-Behavior-Analysis/dashboard.png.png)
 
 ---
 
