@@ -60,7 +60,7 @@ The interactive Power BI dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard](dashboard.png.png)
 
 ---
 
