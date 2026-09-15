@@ -51,9 +51,48 @@ An end-to-end customer behavior analysis project focused on understanding custom
 
 ---
 
-### 📈 02. Sales Analysis
+### 📈 02. E-Commerce Sales & Customer Analytics
 
-Coming Soon...
+An interactive **E-Commerce Sales & Customer Analytics Dashboard** built using Microsoft Excel to analyze sales performance, customer purchasing behavior, product popularity, delivery performance, geographic trends, and customer satisfaction.
+
+**Tools Used:**
+- Microsoft Excel
+- Excel Formulas
+- Calculated Columns
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Grouping
+- Conditional Formatting
+- Map Chart
+- Data Visualization
+
+**Key KPIs:**
+- Total Orders
+- Total Quantity
+- Total Amount / Revenue
+- Average Customer Rating
+- Average Days to Delivery
+
+**Key Analysis:**
+- 13-week sales trend
+- Customer purchase patterns
+- Order mode analysis
+- Gender-based analysis
+- Quantity distribution
+- Most popular products
+- Geographic customer analysis
+- Delivery performance
+- Customer satisfaction
+- Interactive dashboard filtering using slicers
+
+**Excel Dashboard:**
+
+![E-Commerce Sales & Customer Analytics Dashboard](Excel/Dashboard.png)
+
+**Project Files:**
+
+[📂 View Excel Project](Excel/)
 
 ---
 
@@ -76,6 +115,7 @@ Coming Soon...
 - SQL Querying
 - Statistical Analysis
 - Data Visualization
+- Excel Dashboard Development
 - Power BI Dashboard Development
 - DAX
 - Business Intelligence
