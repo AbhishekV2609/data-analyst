@@ -48,41 +48,6 @@ Power BI Theme JSON — Dashboard styling and consistent colors
 
 GitHub — Project version control and portfolio presentation
 
-🗂️ Project Structure
-
-Pizza-Hut-Sales-Analytics-Dashboard/
-│
-├── icons/
-│   ├── customers
-│   ├── date
-│   ├── filter
-│   ├── location
-│   ├── order_type
-│   ├── overview
-│   ├── pizza_category
-│   ├── pizza_size
-│   ├── products
-│   ├── sales
-│   ├── stores
-│   └── time_analysis
-│
-├── images/
-├── logo/
-│
-├── Dashboard.pbix
-├── Dashboard_Build_Plan.txt
-├── Dashboard_Reference.png
-├── Data_Dictionary.txt
-├── DAX_Measures_Starter.txt
-├── Pizza_Hut_Customer_Dimension.xlsx
-├── Pizza_Hut_Location_Dimension.xlsx
-├── Pizza_Hut_Pizza_Dimension.xlsx
-├── Pizza_Hut_Sales_Fact_2024.xlsx
-├── Pizza_Hut_Dashboard_Theme_FIXED.json
-├── SQL_Analysis_Starter.sql
-├── pizzahut_dashboard.png
-└── README.md
-
 File names may vary slightly depending on the local project version.
 
 🧹 Data Preparation
@@ -484,7 +449,7 @@ GitHub Project Documentation
 
 The final dashboard image is included in this repository as:
 
-pizzahut_dashboard.png
+![Pizza Hut Sales Analytics Dashboard](./pizzahut_dashboard.png)
 
 It is displayed at the top of this README for quick portfolio viewing.
 
