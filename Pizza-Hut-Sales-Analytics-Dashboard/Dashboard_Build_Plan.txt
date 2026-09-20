@@ -1,0 +1,38 @@
+PIZZA HUT SALES ANALYTICS — BUILD PLAN
+
+Reference: Dashboard_Reference.png
+
+Power BI pages:
+1. Executive Overview
+2. Sales Analysis
+3. Product Analysis
+4. Customer & Operations
+
+Overview visual layout:
+- Left navigation: Overview, Sales, Products, Customers, Stores, Time Analysis
+- Top KPI cards: Revenue, Orders, Pizzas Sold, Unique Customers, AOV
+- Monthly Revenue & Orders trend
+- Orders by Day & Hour heatmap
+- Revenue by Pizza Category donut
+- Revenue by Pizza Size column chart
+- Top 10 Best-Selling Pizzas bar chart
+- Orders by Channel donut
+- Top Performing Cities bar chart/map
+- Customer Insights cards
+- Right-side slicers: Date, Region, City, Category, Size, Order Type
+
+Recommended Power BI features:
+- Power Query
+- Star-schema relationships
+- DAX measures
+- Slicers
+- Page navigation buttons
+- Drill-through
+- Report-page tooltips
+- Conditional formatting
+- Dynamic titles
+- Bookmarks where useful
+
+Important:
+The reference image is a design target. Numbers shown in it are illustrative.
+Use the actual project dataset to calculate all final KPIs and insights.

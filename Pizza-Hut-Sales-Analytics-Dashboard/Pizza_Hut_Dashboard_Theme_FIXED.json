@@ -1,0 +1,15 @@
+{
+  "name": "Pizza Hut Professional Dark",
+  "dataColors": [
+    "#E31837",
+    "#FF5A5F",
+    "#F7B32B",
+    "#2E8B57",
+    "#7B61FF",
+    "#FFFFFF",
+    "#9AA0A6"
+  ],
+  "background": "#111315",
+  "foreground": "#F5F5F5",
+  "tableAccent": "#E31837"
+}

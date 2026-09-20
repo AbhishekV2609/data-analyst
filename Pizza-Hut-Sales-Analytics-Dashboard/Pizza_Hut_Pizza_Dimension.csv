@@ -1,0 +1,34 @@
+Pizza_ID,Pizza_Name,Pizza_Category,Pizza_Size,Unit_Price
+P001,Margherita,Classic,Regular,199
+P002,Margherita,Classic,Medium,299
+P003,Margherita,Classic,Large,399
+P004,Pepperoni Feast,Classic,Regular,249
+P005,Pepperoni Feast,Classic,Medium,349
+P006,Pepperoni Feast,Classic,Large,449
+P007,Farmhouse,Veg,Regular,229
+P008,Farmhouse,Veg,Medium,329
+P009,Farmhouse,Veg,Large,429
+P010,Paneer Makhani,Veg,Regular,239
+P011,Paneer Makhani,Veg,Medium,339
+P012,Paneer Makhani,Veg,Large,439
+P013,Chicken Tikka,Signature,Regular,269
+P014,Chicken Tikka,Signature,Medium,369
+P015,Chicken Tikka,Signature,Large,469
+P016,Veggie Delight,Veg,Regular,219
+P017,Veggie Delight,Veg,Medium,319
+P018,Veggie Delight,Veg,Large,419
+P019,BBQ Chicken,Signature,Regular,279
+P020,BBQ Chicken,Signature,Medium,379
+P021,BBQ Chicken,Signature,Large,479
+P022,Cheese Burst,Supreme,Regular,259
+P023,Cheese Burst,Supreme,Medium,359
+P024,Cheese Burst,Supreme,Large,459
+P025,Hawaiian,Classic,Regular,239
+P026,Hawaiian,Classic,Medium,339
+P027,Hawaiian,Classic,Large,439
+P028,Spicy Paneer,Supreme,Regular,249
+P029,Spicy Paneer,Supreme,Medium,349
+P030,Spicy Paneer,Supreme,Large,449
+P031,Chicken Pepperoni,Signature,Regular,289
+P032,Chicken Pepperoni,Signature,Medium,389
+P033,Chicken Pepperoni,Signature,Large,489

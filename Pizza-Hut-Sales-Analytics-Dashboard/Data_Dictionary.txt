@@ -1,0 +1,38 @@
+PIZZA HUT PROJECT — DATA DICTIONARY
+
+Sales Fact:
+Order_ID             Unique order identifier
+Order_Date           Order date
+Order_Time           Order time
+Customer_ID          Customer identifier
+Location_ID          Location identifier
+Pizza_ID             Pizza identifier
+Quantity             Number of pizzas in the line
+Unit_Price            Price per pizza before discount
+Discount_Applied      Yes/No
+Discount_Amount       Discount value
+Net_Sales             Revenue after discount
+Order_Type            Delivery / Takeaway / Dine-in
+Payment_Method        UPI / Credit Card / Debit Card / Cash / Wallet
+Year                  Order year
+Month                 Order month number
+Month_Name            Month abbreviation
+Day_Name              Day of week
+Hour                  Order hour
+
+Pizza Dimension:
+Pizza_ID              Pizza identifier
+Pizza_Name            Product name
+Pizza_Category        Classic / Veg / Signature / Supreme
+Pizza_Size            Regular / Medium / Large
+Unit_Price            Base price
+
+Customer Dimension:
+Customer_ID           Customer identifier
+Customer_Segment      New / Regular / Loyal
+Age_Group             Customer age band
+
+Location Dimension:
+Location_ID            Location identifier
+City                   Indian city
+Region                 Geographic region

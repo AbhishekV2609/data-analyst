@@ -1,0 +1,63 @@
+Pizza Hut Power BI — Core DAX Measures
+=========================================
+
+Total Revenue =
+SUM(Sales[Net_Sales])
+
+Total Orders =
+DISTINCTCOUNT(Sales[Order_ID])
+
+Pizzas Sold =
+SUM(Sales[Quantity])
+
+Unique Customers =
+DISTINCTCOUNT(Sales[Customer_ID])
+
+Average Order Value =
+DIVIDE([Total Revenue], [Total Orders])
+
+Average Customer Spend =
+DIVIDE([Total Revenue], [Unique Customers])
+
+Orders per Customer =
+DIVIDE([Total Orders], [Unique Customers])
+
+Revenue LY =
+CALCULATE(
+    [Total Revenue],
+    SAMEPERIODLASTYEAR('Date'[Date])
+)
+
+Revenue Growth % =
+DIVIDE(
+    [Total Revenue] - [Revenue LY],
+    [Revenue LY]
+)
+
+Orders LY =
+CALCULATE(
+    [Total Orders],
+    SAMEPERIODLASTYEAR('Date'[Date])
+)
+
+Orders Growth % =
+DIVIDE(
+    [Total Orders] - [Orders LY],
+    [Orders LY]
+)
+
+Repeat Customers =
+COUNTROWS(
+    FILTER(
+        VALUES(Sales[Customer_ID]),
+        CALCULATE(DISTINCTCOUNT(Sales[Order_ID])) > 1
+    )
+)
+
+Repeat Customer Rate % =
+DIVIDE([Repeat Customers], [Unique Customers])
+
+Note:
+- Rename the fact table to Sales if required.
+- Create a proper Date table named Date before using time-intelligence measures.
+- Format Revenue measures as INR (₹) and growth measures as percentages.
