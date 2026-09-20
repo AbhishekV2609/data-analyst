@@ -96,15 +96,65 @@ An interactive **E-Commerce Sales & Customer Analytics Dashboard** built using M
 
 ---
 
-### 👥 03. Customer Churn Analysis
+### 🍕 03. Pizza Hut Sales Analytics Dashboard
 
-Coming Soon...
+An end-to-end **Pizza Hut-style Sales Analytics Dashboard** built using Microsoft Power BI to analyze revenue, orders, pizza sales, product performance, customer activity, city performance, ordering patterns, and sales trends.
 
----
+> **Data Disclaimer:** This project uses a synthetic Pizza Hut-style dataset created for learning, portfolio, and practice purposes. It is not internal or confidential Pizza Hut data.
 
-### 🗄️ 04. SQL Data Analysis Projects
+**Tools Used:**
+- Power BI
+- Power Query
+- DAX
+- SQL
+- Microsoft Excel
+- Data Modeling
+- Star Schema
+- Data Visualization
 
-Coming Soon...
+**Key KPIs:**
+- Total Revenue
+- Total Orders
+- Pizzas Sold
+- Revenue Growth
+- Orders Growth
+- Pizza Sales Growth
+
+**Key Analysis:**
+- Monthly Revenue & Orders Trend
+- Orders by Day & Hour
+- Revenue by Pizza Size
+- Pizzas Sold by Pizza Name
+- Revenue by Pizza Category
+- Top Performing Cities
+- Date analysis
+- Region analysis
+- City analysis
+- Pizza Category analysis
+- Pizza Size analysis
+- Order Type analysis
+
+**Dashboard Features:**
+- Interactive slicers
+- Date filtering
+- Region filtering
+- City filtering
+- Pizza Category filtering
+- Pizza Size filtering
+- Order Type filtering
+- Interactive navigation buttons
+- Overview dashboard
+- Dark/red Pizza Hut-style theme
+- KPI cards
+- Business-focused visualizations
+
+**Power BI Dashboard:**
+
+![Pizza Hut Sales Analytics Dashboard](Pizza-Hut-Sales-Analytics-Dashboard/pizzahut_dashboard.png)
+
+**Project Files:**
+
+[📂 View Pizza Hut Power BI Project](Pizza-Hut-Sales-Analytics-Dashboard/)
 
 ---
 
@@ -118,6 +168,9 @@ Coming Soon...
 - Excel Dashboard Development
 - Power BI Dashboard Development
 - DAX
+- Power Query
+- Data Modeling
+- Star Schema
 - Business Intelligence
 - Business Problem Solving
 - Machine Learning
@@ -134,7 +187,7 @@ I am passionate about using data to identify patterns, generate insights, and su
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/abhishek-vishwakarma-a79632339/)
 - GitHub: [My GitHub Profile](https://github.com/AbhishekV2609)
 
 ---
